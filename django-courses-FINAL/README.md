@@ -27,5 +27,5 @@
 
 ## Admin credentials
 
-Username: `bogdan`
+Username: `fuad`
 Password: `12345`
